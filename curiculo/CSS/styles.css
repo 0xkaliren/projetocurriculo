@@ -1,47 +1,35 @@
 /*manutenção de css em all.css*/
-
 body {
-    background-color: #048ABF;
+  background-color: #B4BDF6;
 }
 
 h1 {
-    color: #010D26;
-    text-align: center;
-    font-family: 'Inconsolata', monospace; 
+  color: #010D26;
+  text-align: center;
+  font-family: 'Dangrek', cursive;
 }
 
- 
- 
+
+
 p {
-    font-family: verdana;
-    font-size: 20px;
-    color: black;
+  font-family: verdana;
+  font-size: 20px;
+  color: black;
 }
 
 table {
-   
-    font-family: 'Quicksand', sans-serif;
-    color: white;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  border-color: #8263F2;
+  border-style: solid;
 }
- a{
-   color: black;
- }
+
+a {
+  color: black;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-   /*.neonText {
+/*.neonText {
     color: #ff66ff;
     text-shadow:
       /* White glow 
