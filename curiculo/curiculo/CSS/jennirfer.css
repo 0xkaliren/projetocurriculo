@@ -1,0 +1,18 @@
+body {
+    background-color: #B4BDF6;
+    font-family: 'Source Code Pro', monospace;
+}
+    
+
+
+h1 {
+    font-family: 'Source Code Pro', monospace;
+}
+
+h3, ul{
+    color: #3F0080;
+}
+
+li{
+    color: black;
+}
