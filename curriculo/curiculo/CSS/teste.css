@@ -1,0 +1,15 @@
+body{
+
+  background-color: #B4BDF6;
+
+}
+
+  button {
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  div card{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+  }
