@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to top,#6BBEF2, #f9c1eb);
+}
+p,ul,h1,h3{
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+h1{
+    color: #3F0080;
+}
+
+h2{
+    color: #3F0080;
+}
+
+h3{
+    color: #3F0080;
+}
+
+h4{
+    color: #3F0080;
+}
+
+ul h1{
+    color: #3F0080;
+}
+
+hr{
+    border: 1px solid #3F0080;
+
+} 

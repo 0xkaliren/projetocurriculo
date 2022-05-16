@@ -1,0 +1,22 @@
+body {
+
+    background-image: linear-gradient(to top,#6BBEF2, #f9c1eb);
+
+}
+
+hr{
+    border: 1px solid  white;
+    
+}
+
+
+h1 {
+    color: #3F0080;
+    font-family: 'Source Code Pro', monospace;
+}
+
+h3 {
+  
+    color: #3F0080;
+    
+} 
