@@ -1,14 +1,15 @@
 body {
 
     background-image: linear-gradient(to top,#6BBEF2, #f9c1eb);
-
+    width: 1200px;
+    height: 1200px;
+    overflow-y: hidden;
 }
 
 hr{
-    border: 1px solid  white;
-    
+    border: 1px solid #3F0080;
+    width: 1900px;
 }
-
 
 h1 {
     color: #3F0080;
@@ -16,7 +17,13 @@ h1 {
 }
 
 h3 {
-  
+    font-family: 'Source Code Pro', monospace;
     color: #3F0080;
     
 } 
+p{
+    font-family: 'Source Code Pro', monospace;
+}
+li{
+    font-family: 'Source Code Pro', monospace;
+}
