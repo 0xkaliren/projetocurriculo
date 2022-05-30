@@ -1,5 +1,7 @@
 body{
-    background-image: linear-gradient(to top,#6BBEF2, #f9c1eb);
+    background-image: linear-gradient(to left,#F27EB4,#BF6FA3,#8F92BF,#84C9D9,#84C9D9);
+    overflow: scroll;
+    overflow-x: hidden;
 }
 p,ul,h1,h3{
     font-family: 'Source Code Pro', monospace;
@@ -28,5 +30,6 @@ ul h1{
 
 hr{
     border: 1px solid #3F0080;
+    width: 1900%;
 
 } 
